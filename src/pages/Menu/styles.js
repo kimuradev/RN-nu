@@ -9,6 +9,7 @@ export const Code = styled.View`
   background: #fff;
   padding: 10px;
   align-self: center;
+  overflow: hidden;
 `;
 
 export const Nav = styled.View`
